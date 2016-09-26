@@ -4,7 +4,7 @@
   "description": "A react/redux package setup",
   "main": "index.js",
   "scripts": {
-    "start": "",
+    "start": "babel-node tools/srcServer.js",
     "test": ""
   },
   "repository": {
